@@ -133,8 +133,4 @@ This project is suitable for:
 
 **Abdullah**
 Computer Science & Engineering
-GitHub: [https://github.com/your-username](https://github.com/your-username)
-
-```
-Just tell me 👍
-```
+GitHub: [https://github.com/your-username](https://github.com/AbdullahSajid007/)
